@@ -13,17 +13,20 @@
     ]
   },
   "css": {
-    "primary-color": "#52bcf8",
-    "secondary-color": "#5082e4",
-    "tertiary-color": "#f0f5f6",
-    "autofill-color": "#e8f0fe",
-    "main-font": "Open Sans,sans-serif",
     "text-color": "#313332",
+    "main-font": "Open Sans,sans-serif",
     "red-color": "#d93120",
-    "heading-font": "Montserrat,sans-serif",
+    "autofill-color": "#e8f0fe",
+    "tertiary-color": "#f0f5f6",
+    "secondary-color": "#5082e4",
+    "primary-color": "#52bcf8",
     "green-color": "#6ae35c",
-    "white-color": "#fff",
+    "heading-font": "Montserrat,sans-serif",
     "input-bgcolor": "#fdfefe",
-    "box-bgcolor": "#f7fafa"
+    "box-bgcolor": "#f7fafa",
+    "white-color": "#fff"
+  },
+  "snipcart": {
+    "apiKey": "ZDVhNGJlOWQtYjlhZC00ZmU1LThmMTAtMGNjNGYyZGIxYWM3NjM3NjUxODg3OTY2Mjc0NTgy"
   }
 }
